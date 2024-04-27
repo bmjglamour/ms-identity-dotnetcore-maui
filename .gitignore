@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs
+/.idea
 /MauiAppB2C/obj
 /MauiAppBasic/obj
 /MauiAppBasic/MauiAppBasic.csproj.user
